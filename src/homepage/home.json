@@ -1,0 +1,113 @@
+
+[{
+    "dialogue":" “இது ஒரு மொழியின் வரலாறு அல்ல… ஒரு இனத்தின் வாழ்வியல்.”",
+        
+    "image1": "./homepage_image/home_image1.jpg",
+    "text1": "Temple",
+    "image2": "./homepage_image/statue_image.jpg",
+    "text2": "Statue",   
+    "image3": "./homepage_image/music_instrument_image.jpg",
+    "text3": "Music Instrument", 
+    "image4": "./homepage_image/traditional_sport_image.jpg",
+    "text4": "Traditional Sport",
+    "image5": "./homepage_image/food_image.jpg",
+    "text5": "Food",
+    "image6": "./homepage_image/book_image.jpg",
+    "text6": "Book",
+    
+
+    "temple1": "./homepage_image/brihadeeswarar_temple.jpg",
+     "category1": "TEMPLE",
+    "title1": "Brihadeeswarar Temple",
+    "description1": "A magnificent Chola-era temple known for its grand architecture and historic significance.",
+    "location1": "📍Thanjavur",
+    "period1": "◷Chola Period",
+    "rating1": "4.9",
+
+    "temple2": "./homepage_image/palani_temple.jpg",
+     "category2": "TEMPLE",
+    "title2": "Palani Temple",
+    "description2": "A sacred hill temple dedicated to Lord Murugan (Dhandayuthapani Swamy), world-famous for its ancient Navapashanam idol and deep spiritual heritage in Tamil culture.",
+    "location2": "📍Palani, Dindigul",
+    "period2": "◷Chera / Sangam Period",
+    "rating2": "4.8",
+
+
+    "temple3": "./homepage_image/meenakshi_temple.jpg",
+     "category3": "TEMPLE",
+     "title3": "Meenakshi Amman Temple",
+     "description3": "A historic and architectural masterpiece in the heart of Madurai, world-famous for its majestic gopurams, rich Sangam literature backstories, and divine devotion to Goddess Meenakshi.",
+     "location3": "📍Madurai",
+     "period3": "◷Pandyan Period",
+     "rating3": "4.9",
+
+      "temple4": "./homepage_image/mahabalipuram_temple.jpg",
+     "category4": "TEMPLE",
+     "title4": "Mahabalipuram Shore Temple",
+     "description4": "A UNESCO World Heritage coastal temple built overlooking the sea, celebrated for its Pallava rock-cut architecture, rich maritime trade backstory, and timeless stone carvings.",
+     "location4": "📍Mahabalipuram, Chengalpattu",
+     "period4": "◷Pallava Period",
+     "rating4": "4.7",
+
+
+
+   "statue1": "statue1",
+    "category5": "Chola • Sacred Art",
+    "description5": "The iconic form of Lord Shiva as Nataraja represents the cosmic dance of creation, preservation, and transformation.",
+    "statueimg1": "./homepage_image/natrajar_statue.jpg",
+  
+
+     "statue2": "statue2",
+    "category6": "Tamil Literature • Heritage",
+    "description6": "Kannagi, the legendary heroine of Silappathikaram, stands as a symbol of courage, justice, and unwavering determination.",
+    "statueimg2": "./homepage_image/kaanagi_statue.jpg",
+
+    "statue3": "statue3",
+    "category7": "Pallava • Mahabalipuram",
+    "description7": "Carved into the massive rock at Mahabalipuram, Arjuna's Penance is one of the finest examples of Pallava-era monumental art.",
+    "statueimg3": "./homepage_image/arjun_penas_statue.jpg",
+  
+  
+    "statue4": "statue4",
+    "category8": "Tamil Heritage • Kanyakumari",
+    "description8": "The monumental statue of Thiruvalluvar honours the great Tamil poet and philosopher, whose Thirukkural continues to inspire generations.",
+    "statueimg4": "./homepage_image/thiruvalluvar_statue.jpg",
+
+
+
+    "booksection":"./homepage_image/olaisuvadi_image.jpg",
+    "book1":"./homepage_image/thirukural_book_image.jpg",
+    "book2":"./homepage_image/tholkapiyyam_book_image.jpg",
+    "book3":"./homepage_image/silapathikaram_book_image.jpg",
+    "book4":"./homepage_image/manimegalai_book_image.jpg",
+
+
+    "musicimge1":"./homepage_image/music_instrument_imge2",
+
+    "yuzhimage":"./homepage_image/yuzh_image.jpg",
+    "yuzhmp3":"./homepage_image/yuzh_music.mp3",
+
+    "nadhaswaramimage":"./homepage_image/nadhaswaram_image.jpg",
+    "nadhaswarammp3":"./homepage_image/nadhaswaram_music.mp3",
+
+    "paraiimage":"./homepage_image/parai_image.jpg",
+    "paraimp3":"./homepage_image/parai_music.mp3",
+
+    "thavilimage":"./homepage_image/thavil_image.jpg",
+    "thavilmp3":"./homepage_image/thavil_music.mp3",
+
+
+    "jallikattu":"./homepage_image/jallikattu_image.jpg",
+    "kabhadi":"./homepage_image/kabhadi_image.jpg",
+    "silambam":"./homepage_image/silambam_image.jpg",
+    "archery":"./homepage_image/archery_image.jpg",
+
+
+    "vaazh_elai":"./homepage_image/vaazh_elai_image.png",
+    "kambu_koozh":"./homepage_image/kambu_koozh_image.jpg",
+    "thenai_rice":"./homepage_image/thenai_rice_image.jpg",
+    "koollu_rasam":"./homepage_image/koollu_rasam_image.jpg",
+    "kambu_kali":"./homepage_image/kambu_kali_image.jpg"
+
+
+}]
